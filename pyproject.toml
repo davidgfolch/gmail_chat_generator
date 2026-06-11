@@ -12,6 +12,7 @@ google-api-python-client = "^2.111.0"
 google-auth-oauthlib = "^1.2.0"
 google-auth-httplib2 = "^0.2.0"
 beautifulsoup4 = "^4.12.3"
+markdown = "^3.6"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^9.0.2"
